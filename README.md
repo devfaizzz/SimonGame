@@ -3,7 +3,7 @@
 A fun and interactive **Simon Says** game built using **HTML, CSS, and JavaScript**. Test your memory by following the pattern of colors and sounds!  
 
 ## 🚀 Live Demo  
-🔗 [Play the Game](#) *(Replace with your live link)*  
+🔗 [Play the Game](https://devfaizzz.github.io/SimonGame/)
 
 ## 📌 Features  
 - ✅ Simple and engaging gameplay  
@@ -25,6 +25,6 @@ A fun and interactive **Simon Says** game built using **HTML, CSS, and JavaScrip
 - **JavaScript** – Game logic and interactivity  
 
 ## 📂 Repository  
-🔗 [GitHub Repo](https://github.com/devfaizzz/SimonGame) *(Replace with your repo link)*  
+🔗 [GitHub Repo](https://github.com/devfaizzz/SimonGame)
 
 🌟 Don't forget to **star** the repository if you like it! 🚀  
