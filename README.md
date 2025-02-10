@@ -25,6 +25,6 @@ A fun and interactive **Simon Says** game built using **HTML, CSS, and JavaScrip
 - **JavaScript** – Game logic and interactivity  
 
 ## 📂 Repository  
-🔗 [GitHub Repo]([#](https://github.com/devfaizzz/SimonGame)) *(Replace with your repo link)*  
+🔗 [GitHub Repo](https://github.com/devfaizzz/SimonGame) *(Replace with your repo link)*  
 
 🌟 Don't forget to **star** the repository if you like it! 🚀  
